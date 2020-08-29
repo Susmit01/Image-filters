@@ -1,0 +1,26 @@
+*{
+background-color: wheat;
+  font-family: Verdana;
+}
+h2{
+  text-align: center;
+  background-color: tomato;
+  color: white; 
+}
+p{
+  font-family: Verdana ;
+  
+}
+canvas{
+  border: 2px solid grey;
+  padding: 20px;
+  width: 500px;
+  margin: 20px;
+}
+.imagesection{
+  border: dashed 2px darkgrey;
+  text-align: center;
+}
+#last{
+  text-align: center;
+}
